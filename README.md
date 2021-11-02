@@ -128,3 +128,9 @@ urlpatterns = [
 ```
 
 # Testando a API
+
+
+![Captura de tela de 2021-11-02 16-50-10](https://user-images.githubusercontent.com/86114896/139943416-0918d8d3-1938-4408-9cd5-9c228cf0431c.png)
+![Captura de tela de 2021-11-02 16-57-12](https://user-images.githubusercontent.com/86114896/139943422-72287ff8-de68-46af-b066-398ff5061e2d.png)
+![Captura de tela de 2021-11-02 16-57-25](https://user-images.githubusercontent.com/86114896/139943426-fa1248a5-0e07-4be9-9cd5-b165d3f28d9f.png)
+
